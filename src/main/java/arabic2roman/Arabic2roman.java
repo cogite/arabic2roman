@@ -1,10 +1,13 @@
 package arabic2roman;
 
-import java.io.PrintStream;
-import java.security.InvalidParameterException;
-
 public class Arabic2roman {
 
+    public String romanNumber (String)
 
+    public String convert(int arabicNumber) {
+        if (arabicNumber == 1) {
+
+        }
+    };
 
 }

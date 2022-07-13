@@ -1,14 +1,13 @@
 package arabic2roman;
 
 import org.junit.jupiter.api.Test;
-
-import java.io.*;
-import java.util.stream.Stream;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Arabic2romanTest {
 
-
+    @Test
+    public void shouldEncryptSpaceBetweenWords() {
+        assertEquals("", "");
+    }
 
 }
